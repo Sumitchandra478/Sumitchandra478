@@ -4,21 +4,28 @@ Automation & AI Quality Engineering professional with 3.5+ years of experience b
 
 ## What I Do
 
-- Design AI output-evaluation and quality-scoring frameworks for AI/LLM-generated content, checking accuracy, consistency, and structural quality
-- Orchestrate multi-agent AI skill pipelines to process and validate large-scale enterprise knowledge content
+- Build Claude Skills (Anthropic) that score and convert enterprise knowledge base content for AI-readiness, checking accuracy, consistency, and structural quality
+- Orchestrate chained Claude Skills pipelines (scoring to conflict detection to conversion) to process large-scale enterprise knowledge content end-to-end
 - Build automation frameworks using NICE Automation Studio, ServiceNow scripting, JavaScript, and Python
 - Partner with business and QA stakeholders to translate requirements into automated, testable solutions
 
-## Highlights
+## Featured Project: AI-Ready Knowledge Base (KB) Tool
 
-- Architected an AI content quality & evaluation framework that cut knowledge base conversion turnaround ~80% (3-4 weeks to 4-5 days) for a global client engagement, producing verification reports confirming zero content loss
+A Claude Skills-based pipeline that scores enterprise knowledge articles for AI-readiness and converts them into an AI-ready format, with results surfaced through a custom HTML review interface for SMEs.
+
+- Cut knowledge base conversion turnaround ~80% (3-4 weeks to 4-5 days) for a global client engagement
+- Flags duplicate and contradictory content for SME resolution
+- Produces verification reports confirming zero content loss after conversion
+
+## Other Highlights
+
 - Engineered the Wiser Case Assignment Automation System, automating ServiceNow workflows via JavaScript for rule-based case routing
 - Built Python-based reporting automation for business-requirement-driven reports
 - Promoted twice within my first year at NICE Ltd.
 
 ## Tech & Tools
 
-JavaScript - Python - HTML - NICE Automation Studio - ServiceNow - RPA - AI/LLM Output Evaluation - Agile
+Claude Skills (Anthropic) - JavaScript - Python - HTML - NICE Automation Studio - ServiceNow - RPA - AI/LLM Output Evaluation - Agile
 
 ## Contact
 
